@@ -1,0 +1,295 @@
+
+@media (max-width:1346px) {
+    .heder-menu li a {
+        padding: 10px 12px;
+    }
+    .how-img img {
+        height: 400px;
+    }
+    
+}
+
+@media (max-width:1234px) {
+    .heder-menu li a {
+        padding: 10px 8px;
+    }
+    .heder-menu li a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:1204px) {
+    .about-img img{
+        height: 340px;
+    }
+    .about-img-text {
+        right: -10px;
+        height: 150px;
+        width: 150px;
+    }
+    .about-img-text h1 {
+        font-size: 40px;
+    }
+    .about-img-text p {
+        font-size: 12px;
+    }
+    .hip-min-text h2 {
+        font-size: 23px;
+    }
+    .hip-min-text p {
+        font-size: 13px;
+        line-height: 1.4rem;
+    }
+    .hip-min-text img {
+        height: 330px;
+    }
+    .mai-h2 h2 {
+        font-size: 25px;
+    }
+    .nuver-contact span {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .nuver-contact a {
+        font-size: 25px;
+    }
+    .img-buton{
+        height: 400px;
+    }
+    .services-in li a span i {
+        font-size: 20px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .services-in li a strong {
+        font-size: 15px;
+        margin-top: 7px;
+    }
+    .fondim-img img{
+        height: 320px;
+    }
+    .loan-im img{
+        height: 400px;
+    }
+
+}
+
+
+@media (max-width:1126px) {
+    .heder-menu li a {
+        font-size: 11px;
+    }
+    .heder-menu li a {
+        padding: 10px 4px;
+    }
+    .banner-text h1 {
+        font-size: 33px;
+        margin-top: 17px;
+        margin-bottom: 20px;
+    }
+    .how-img img {
+        height: 340px;
+    }
+}
+@media (maX-width:992px) {
+    .slider-section {
+        background: url(https://templates.envytheme.com/finix/default/assets/img/main-banner2.jpg) no-repeat top center;
+        background-size: contain;
+        background-attachment: none;
+       
+    }
+    .about-img-text {
+        right: 290px;
+        margin-bottom: 90px;
+    }
+    .about-img img {
+        margin-bottom: 50px;
+    }
+    .red-button {
+        margin-bottom: 30px;
+    }
+    .services-in li a strong {
+        font-size: 12px;
+    }
+    .services-in li a span i {
+        font-size: 20px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .services-in li a.active::after{
+        width: 120px;
+        left: 0px;
+    }
+    .heder-menu li ul {
+        left: 60px;
+    }
+}
+
+@media (max-width:768px) {
+    .banner-text h1 {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .banner-text p {
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    .logo-item img{
+        height: 18px;
+    }
+    .about-img-text {
+        right: 110px;
+        margin-bottom: 90px;
+    }
+    .hip-min-text h3 {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+    .hip-min-text span {
+        font-size: 14px;
+    }
+    .left-line h2 {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 2.2rem;
+    }
+    .mai-h2 h2 {
+        font-size: 17px;
+    }
+    .nuver-contact a {
+        font-size: 20px;
+    }
+    .nuver-contact span {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 18px;
+    }
+    .vitorer-div {
+        padding: 20px;
+    }
+    .services-in li a strong {
+        font-size: 12px;
+        margin-top: 7px;
+    }
+    .services-in li a strong {
+        font-size: 8px;
+        margin-top: 7px;
+    }
+    .services-in li a span i {
+        font-size: 17px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .services-in li a.active::after{
+       
+        width: 80px;
+        left: 0px;
+    }
+    .fondim-img img{
+        height: 300px;
+    }
+}
+
+@media (max-width:576px) {
+    .banner-text p {
+        margin-bottom: 6px;
+        font-size: 10px;
+    }
+    .banner-text h1 {
+        font-size: 17px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .about-img img {
+        height: 300px;
+    }
+    .about-img-text {
+        right: 10px;
+    }
+    .hip-min-text img {
+        height: 250px;
+    }
+    .hip-min-text h3 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    .hip-min-text span {
+        font-size: 12px;
+    }
+    .left-line h2 {
+        font-size: 20px;
+        line-height: 1.7rem;
+    }
+    .how-img img {
+        height: 230px;
+    }
+    .how-text h2 {
+        margin-bottom: 30px;
+        font-size: 29px;
+    }
+    body, p, span, a {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+    }
+    .services-in li a span i {
+        font-size: 10px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .services-in li a strong {
+        font-size: 18px;
+    }
+    .services-in li a span i {
+        font-size: 18px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .services-in li a.active::after{
+       
+        width: 100px;
+        left: 45px;
+    }
+    .services-in li a strong {
+        font-size: 15px;
+    }
+    .img-buton {
+        height: 280px;
+    }
+    .testimonial-text p {
+        font-size: 15px;
+    }
+    .testimonial-img img {
+        height: 270px;
+    }
+    .testimonial-icom {
+        right: 210px;
+    }
+    .testimonial-icom span {;
+        font-size: 30px;
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+    }
+    .red-button {
+        font-size: 11px;
+    }
+    .form-group input {
+        margin-bottom: 15px;
+        padding: 1px 14px;
+    }
+    .form-group select {
+        height: 37px;
+    }
+    .fondim-img img{
+        height: 200px;
+    }
+}
